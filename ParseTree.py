@@ -45,5 +45,5 @@ def evaluate(parseTree):
         return parseTree.getRootVal()
 
 b = buildParseTree('( ( 3 + 5 ) * 7 ) )')
-
+c = 3
 
