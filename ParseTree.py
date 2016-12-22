@@ -44,6 +44,6 @@ def evaluate(parseTree):
     else:
         return parseTree.getRootVal()
 
-b = buildParseTree('( ( 3 + 5 ) * 7 ) )')
-c = 3
+#b = buildParseTree('( ( 3 + 5 ) * 7 ) )')
+
 
